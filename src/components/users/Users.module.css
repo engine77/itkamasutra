@@ -1,0 +1,41 @@
+.users{
+    padding: 15px;
+}
+.img{
+  width: 50px;
+  margin: 0 auto;
+}
+.imgBox{
+    width: 100px;
+    text-align: center;
+}
+.imgBox button{
+    background-color: greenyellow;
+    border:none;
+    padding: 5px 10px;
+    color: white;
+}
+.userBox{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+.txtBox{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 50%;
+    border:1px solid black;
+    border-radius: 10px;
+    padding: 15px;
+    margin-left: 20px;
+}
+.leftBox h4{
+ margin: 0;
+}
+.activePagination{
+    color: red;
+}
+.paginatonLink{
+    padding: 0 5px;
+}

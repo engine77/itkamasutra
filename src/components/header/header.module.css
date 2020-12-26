@@ -1,0 +1,14 @@
+.header{
+	grid-area: h;
+	width: 100%;
+	background-color: khaki;
+	display: flex;
+	justify-content: space-between;
+    align-items: center;
+}
+.header img{
+	width: 100px;
+}
+.login{
+	color: black;
+}
